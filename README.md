@@ -1,3 +1,5 @@
+# Actidoo-Fix IOS 13 where you cant open the image picker for an Video used in v0.27 and combined with React Native .59
+
 # React Native Image Picker
 
 [![npm version](https://badge.fury.io/js/react-native-image-picker.svg)](https://badge.fury.io/js/react-native-image-picker)
